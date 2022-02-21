@@ -1,2 +1,2 @@
-# KataX
+# KatasCarlosLaunchX
 Ejercicios de LaunchX
